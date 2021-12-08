@@ -1,1 +1,1 @@
-FROM httpd
+FROM mysql:5.7
